@@ -1,4 +1,4 @@
-github-hexo-blog
-================
+ksck23
+======
 
-My github blog source files
+Source code of my blog hosted at http://ksck23.github.io

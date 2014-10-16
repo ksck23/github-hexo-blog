@@ -1,0 +1,52 @@
+menu:
+  Home: /
+  Archives: archives
+  page:
+    About: about
+
+widgets:
+- tag
+
+excerpt_link: Continue →
+
+mathjax: true
+fancybox: true
+print: true
+
+social:
+  twitter: false
+  github: true
+  gplus: true
+  rss: true
+  linkedin: true
+  facebook: true
+  coderwall: false
+  pinterest: false
+
+twitter:
+  username: ksck23
+
+github:
+  username: ksck23
+
+gplus:
+  username: +ShivaChandraKumarK
+
+linkedin:
+  username: ksck23
+
+facebook:
+  username: ShivaChandraKumarK
+
+coderwall:
+  username:
+
+pinterest:
+  username:
+
+addit:
+  facebook: false
+  twitter: true
+  gplus: true
+  pinit: false
+  publid:
